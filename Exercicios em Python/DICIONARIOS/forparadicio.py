@@ -11,5 +11,6 @@ Pessoas = {
 for pessoa in Pessoas:
     print(pessoa, Pessoas[pessoa])
 print("\n----------------------------------\n")
+#essa segunda forma me retorna tuplas
 for pessoa, valor in Pessoas.items():
     print(pessoa, valor)

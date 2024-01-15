@@ -16,7 +16,6 @@ def mensagem():
 print(somanumero(numeros))
 print(antesus(numero))
 print (mensagem())
-mensagem()
 
 
     

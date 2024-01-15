@@ -9,5 +9,4 @@ Pessoas = {
 #cria uma cópia do dicionário existente
 copia = Pessoas.copy()
 copia["pessoa5"] = {"nome": "Gleice", "idade": "20"}
-#copia["pessoa5"]
 print(copia)
